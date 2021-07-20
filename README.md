@@ -1,6 +1,6 @@
 # Praktikum_UAS
 
-# UAS Pemrograman Web Smester 4
+# UAS Pemrograman Web Semester 4
 
 ```
 Nama  : Sigit Ardiansyah
